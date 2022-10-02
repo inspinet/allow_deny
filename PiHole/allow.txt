@@ -1,0 +1,153 @@
+# Title: allow_deny/Pihole/allow.txt
+#
+# This file is a listed of FQDN that showuld be allowed on PiHole
+#
+# Date: 02 October 2022 21:58:02 (UTC)
+#
+# Fetch the latest version of this file:
+# Project home page:
+# Project releases:
+#
+# ===============================================================
+
+www.craven-college.ac.uk # Craven College website
+craven-college.ac.uk # Craven College website
+www.national-lottery.co.uk # National Lottery website
+secure.e-konsulat.gov.pl # Polish Consulate website
+inspinet.co.uk # Inspinet website
+
+adwords.google.com
+ads.google.com
+analytics.google.com
+adservice.google.com
+analytics.twitter.com
+ads.twitter.com
+
+www.youtube-nocookie.com
+
+r.bbci.co.uk
+content-autofill.googleapis.com
+mail.google.com
+web.whatsapp.com
+ci4.googleusercontent.com
+ci6.googleusercontent.com
+lh5.googleusercontent.com
+lh3.googleusercontent.com
+ajax.googleapis.com
+www.googletagmanager.com
+oauth2.googleapis.com
+www.googleapis.com
+update.googleapis.com
+lh6.googleusercontent.com
+lh4.googleusercontent.com
+gmail.googleapis.com
+store.steampowered.com
+store.cloudflare.steamstatic.com
+cdn.cloudflare.steamstatic.com
+www.instagram.com
+fonts.googleapis.com
+www.facebook.com
+graph.instagram.com
+instagram.flba1-1.fna.fbcdn.net
+static.xx.fbcdn.net
+facebook.com
+external.flba1-1.fna.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.flba1-1.fna.fbcdn.net
+edge-chat.facebook.com
+video.xx.fbcdn.net
+upload.facebook.com
+i.instagram.com
+edge-chat.instagram.com
+calendarsync-pa.googleapis.com
+instantmessaging-pa.googleapis.com
+storage.googleapis.com
+doc-7c-58-drive-data-export.googleusercontent.com
+doc-8s-9g-drive-data-export.googleusercontent.com
+(\.|^)googleusercontent\.com$
+android.googleapis.com
+graph.facebook.com
+drivesharefrontend-pa.googleapis.com
+(\.|^)business\.facebook\.com$
+(\.|^)upload-business\.facebook\.com$
+(\.|^)vupload-edge-business\.facebook\.com$
+(\.|^)www\.instagram\.com$
+(\.|^)graph\.instagram\.com$
+(\.|^)i\.instagram\.com$
+(\.|^)edge-chat\.instagram\.com$
+graphql.instagram.com
+oauthaccountmanager.googleapis.com
+maps.googleapis.com
+www.netflix.com
+ios.prod.ftl.netflix.com
+appboot.netflix.com
+ios.prod.http1.netflix.com
+www.dradis.netflix.com
+mobile.prod.dradis.netflix.com
+ios.prod.cloud.netflix.com
+secure.netflix.com
+ichnaea.netflix.com
+api-global.netflix.com
+cdn-0.nflximg.com
+nrdp.nccp.netflix.com
+nrdp50-appboot.netflix.com
+customerevents.netflix.com
+uiboot.netflix.com
+nrdp.prod.cloud.netflix.com
+nrdp.prod.ftl.netflix.com
+oca-api.eu-west-1.origin.prodaa.netflix.com
+oca-api.us-west-2.origin.prodaa.netflix.com
+anycast.ftl.netflix.com
+self.events.data.microsoft.com
+content.googleapis.com
+notifications-pa.googleapis.com
+(\.|^)cisco\.com$
+edge-mqtt.facebook.com
+phonedeviceverification-pa.googleapis.com
+play-fe.googleapis.com
+backup.googleapis.com
+telephonyspamprotect-pa.googleapis.com
+people-pa.googleapis.com
+kidsmanagement-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+semanticlocation-pa.googleapis.com
+mobilemaps.googleapis.com
+peoplestack-pa.googleapis.com
+userlocation.googleapis.com
+myphonenumbers-pa.googleapis.com
+mobilemaps-pa-gz.googleapis.com
+www.gmail.com
+play.googleapis.com
+id.google.com
+
+oculus.com
+graph.oculus.com
+securecdn.oculus.com
+chromesyncpasswords-pa.googleapis.com
+notes-pa.googleapis.com
+tasks-pa.googleapis.com
+query.hicloud.com
+
+(\.|^)unity3d\.com$
+www.oculus.com
+sp-ad-fa.audio.tidal.com
+
+# Unity
+(\.|^)unity\.com$
+(\.|^)assetresoource\.unity\.com$ # Unity resources
+(\.|^)unity-assetstorev2-prd\.storage\.googleapis\.com$ # Unity baners
+
+
+(\.|^)gen-as-admin-prd\.storage\.googleapis\.com$
+play.wynncraft.com
+192-168-1-24.70d7e9e1db59452cb4b6ec9bc5bf14ad.plex.direct
+cdn-settings.segment.com
+firebaseinappmessaging.googleapis.com
+nrdp51-appboot.netflix.com
+help.netflix.com
+userpresence.xboxlive.com
+snoop.minecraft.net
+client-telemetry.roblox.com
+history.google.com
+streetviewpixels-pa.googleapis.com
+clientservices.googleapis.com
