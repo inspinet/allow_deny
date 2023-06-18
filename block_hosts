@@ -1,0 +1,18 @@
+# Title: sitexpert/block_hosts
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/sitexpert/allow_deny/master/block_hosts
+# Project home page: https://github.com/sitexpert/allow_deny
+#
+# ===============================================================
+
+
+#=====================================
+# Title: Hosts contributed by sitexpert
+
+# Malware
+0.0.0.0 lesexwrecko.xyz
+0.0.0.0 wmothan.xyz
+0.0.0.0 ydteamwou.com
+0.0.0.0 egazedatth.com
+0.0.0.0 tighabovethe.com
+0.0.0.0 alnormatic.xyz
