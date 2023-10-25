@@ -1,0 +1,71 @@
+# Title: sitexpert/block_hosts
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/sitexpert/allow_deny/master/block_hosts
+# Project home page: https://github.com/sitexpert/allow_deny
+#
+# ===============================================================
+
+
+#=====================================
+# Title: Hosts contributed by sitexpert
+
+# Malware
+.lesexwrecko.xyz
+.wmothan.xyz
+.ydteamwou.com
+.egazedatth.com
+.tighabovethe.com
+.alnormatic.xyz
+
+# Gather info about user
+.online-metrix.net
+
+# Tracking links
+.awstrack.me
+.mandrillapp.com
+.track.credcion.com
+.email.m.rainofcash.com
+.trk.findlons.com
+.trck.trckop.com
+.track.fbsck.com
+
+# Phishing
+.xmr3.com
+.upgrade.com
+.investmentlendinghelp.com
+.helpsrus.com
+.poncelending.com
+.thinksaveretire.com
+.mandrillapp.com
+.pursene.com
+.clickhelpzone.com
+.topcleverforme.com
+.loansperiod.com
+.findloan.co
+.credcion.com
+.hearfundz.com
+.deertrailfinancing.com
+.cashnetusa.com
+.sunshineloans.com
+.enderlyfinance.com
+.universal-credit.com
+.rainofcash.com
+.rutlandadvance.com
+.demopolisfinance.com
+.matrixfilending.com
+.findlons.com
+.personalloanluckyfeels.com
+.sanantoniofunds.com
+.advancedwalletonline.com
+.thefinassist.com
+.infusionsoft.com
+.supportsworld.com
+.walletaidonline.com
+.aidte.com
+.bartlettfinancing.com
+.trckop.com
+.fbsck.com
+.advancesinfodata.com
+.crippleloan.com
+.simplifiedfunds.com
+.coalfinancing.com
