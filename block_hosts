@@ -29,6 +29,8 @@
 0.0.0.0 trck.trckop.com
 0.0.0.0 track.fbsck.com
 0.0.0.0 track.ktrcon.com
+0.0.0.0 track.trckot.com
+0.0.0.0 trck.trckfc.com
 
 # Phishing
 0.0.0.0 xmr3.com
@@ -72,3 +74,10 @@
 0.0.0.0 coalfinancing.com
 0.0.0.0 totrusted.com
 0.0.0.0 ktrcon.com
+0.0.0.0 aiddingmedia.com
+0.0.0.0 chinookfunding.com
+0.0.0.0 searchmiss.com
+0.0.0.0 offerdetails.net
+0.0.0.0 alemldelivery.com
+0.0.0.0 trckot.com
+0.0.0.0 trckfc.com
